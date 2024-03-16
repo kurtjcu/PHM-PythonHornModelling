@@ -21,14 +21,14 @@ Model some horns/waveguides that are already well characterised to ensure the ap
 
 ### problems
 1. Spherical source radiating
-  1.1.Free space
-  1.2 Half space
-  1.3 Quarter space
+    1.Free space
+    2 Half space
+    3 Quarter space
 2. Hemispherical source in a planar tube
 3. Planar source in 
-  3.1 a planar tube
-  3.2 a conical tube
-  3.3 an oblate spheriod 
+    1 a planar tube
+    2 a conical tube
+    3 an oblate spheriod 
 
 
 
