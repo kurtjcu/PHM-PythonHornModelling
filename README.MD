@@ -28,3 +28,8 @@ Model some horns/waveguides that are already well characterised to ensure the ap
   3.2 a conical tube
   3.3 an oblate spheriod 
 
+
+
+## Developing
+This repo uses a git-flow branching methodology. The master branch is the stable release branch. The develop branch is the current development branch. Feature branches are created from the develop branch and merged back into the develop branch. When a release is ready, the develop branch is merged into the master branch and tagged with the release number. It is likely that a release may take a long time to be ready, so the master branch may be behind the develop branch for a long time( or forever...:) ). 
+
