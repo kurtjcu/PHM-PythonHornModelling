@@ -32,6 +32,19 @@ Model some horns/waveguides that are already well characterised to ensure the ap
 
 
 
+
+
+
+
 ## Developing
+
+### Methodology
 This repo uses a git-flow branching methodology. The master branch is the stable release branch. The develop branch is the current development branch. Feature branches are created from the develop branch and merged back into the develop branch. When a release is ready, the develop branch is merged into the master branch and tagged with the release number. It is likely that a release may take a long time to be ready, so the master branch may be behind the develop branch for a long time( or forever...:) ). 
+
+### Environment
+I am developing on Ubuntu and WSL using mamba(conda) to manage python packages and environment(s). Where applicable I will endevour to use premade containers 
+
+### Hardware
+I own and have access to several Nvidia GPU's 20,30,40 series but I will try to keep memory GPU requirements below 8GB to make it easier for others to run the code.
+
 
