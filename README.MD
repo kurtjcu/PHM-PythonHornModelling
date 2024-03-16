@@ -4,6 +4,8 @@
 
 A Collection of tools and information/lings WRT to making the modelling, simulation and development of acoustic horns for audio reproduction.
 
+See DEVELOP branch for latest...
+
 This repo is to organise my exploration im making this process simpler, better and/or easier to automate via python.
 
 ## Goals
